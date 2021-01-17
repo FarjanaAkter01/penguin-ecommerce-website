@@ -1,0 +1,81 @@
+img{
+    max-width: 100%;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    object-fit: cover;
+   
+}
+.orange-highlight{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    
+    padding-top:10px;
+    
+}
+.half-width img{
+    width: 80%;
+    float: left;
+}
+.hello{
+    background-color: #FFFBF0;
+}
+.banner{
+    background-color:#FFFBF0 ;
+}
+.list ul li{
+    padding:5px;
+
+}
+.topbar{
+    margin: 0px;
+    background-color: #FFFBF0;
+}
+button i{
+    color: white;
+    padding: 3px;
+   
+
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
+/* here i cancel old ducoment*/
+.sales button{
+    background-color:#97B133 ;
+    border: none;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.penguin-card{
+    border:0;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.seller img{
+    width: 100px;
+    padding: 2%;
+   
+}
+h5{
+    color:#FA804C ;
+}
+h4{
+    color: #363958;
+}
+.card1 img{
+    padding-left: 15px;
+
+}
+.cardsize{
+    border-radius: 15px;
+}
